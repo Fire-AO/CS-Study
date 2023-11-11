@@ -29,10 +29,8 @@
 ## 책
 <table style=“width: 100%;”>
   <tr>
-   <td align="center" width="20%;"><a href="https://github.com/kjb512"><img src="https://avatars.githubusercontent.com/u/53505860?v=4?s=100" alt=""/><br /><sub><b>김진범</b></a><br><a href="https://solved.ac/kjb512"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kjb512" /></sub></a><br /></td>
-   <td align="center" width="20%;"><a href="https://github.com/sejineer"><img src="https://avatars.githubusercontent.com/u/95167215?v=4?s=100" alt=""/><br /><sub><b>박세진</b></a><br><a href="https://solved.ac/qkrtpwls025"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qkrtpwls025" /></sub></a><br /></td>
-   <td align="center" width="20%;"><a href="https://github.com/hojinida"><img src="https://avatars.githubusercontent.com/u/96263955?v=4?s=100" alt=""/><br /><sub><b>장호진</b></a><br><a href="https://solved.ac/opqrs1107"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=opqrs1107" /></sub></a><br /></td>
-   <td align="center" width="20%;"><a href="https://github.com/minseoJeong37"><img src="https://avatars.githubusercontent.com/u/129270693?v=4?s=100" alt=""/><br /><sub><b>정민서</b></a><br><a href="https://solved.ac/wjdalstj330"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wjdalstj330" /></sub></a><br /></td>
+   <td align="center" width="20%;"><img src="img/os.jfif" alt=""/><br /><sub><b>운영체제</b></a><br></sub></a><br /></td>
+   <td align="center" width="20%;"><img src="img/network.jfif" alt=""/><br /><sub><b>네트워크</b></a><br></sub></a><br /></td>
   </tr>
 </table>
 
